@@ -12,3 +12,12 @@ This project uses Machine Learning to detect fake news articles.
 2. Run each cell step-by-step
 3. Requirements: pandas, scikit-learn, numpy, matplotlib
 
+## 📁 Dataset
+
+These CSV files are used in this project but were too large to upload directly to GitHub.
+
+You can download them from the links below:
+
+- [Dataset: Fake.csv](https://drive.google.com/file/d/1V54jZB17uoqwYSzFNo8Fnx00sBDcNL7i/view?usp=sharing)
+- [Dataset: True.csv](https://drive.google.com/file/d/1SbZq-ycsZUTPU28rWDwCjxtXYSBYvpzi/view?usp=sharing)
+
